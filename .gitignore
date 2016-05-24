@@ -1,0 +1,12 @@
+*.class
+*.swp
+*.iml
+*.log
+target/
+.idea
+.idea_modules
+.DS_Store
+.part-00000.crc
+.cache
+.settings/
+
